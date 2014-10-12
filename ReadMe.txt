@@ -21,8 +21,3 @@ titles, durations and dates
 
 Calendar.html - html file used to view calendar in browser which contains links to all required JavaScript and css files 
 
-Current unresolved issues - (a) cannot properly format header showing the days of the week for the weekview;
-(b) active day is not highlighted with a border on the day.  I originally had this functioning properly but once
-I retrieved data, I could not get the active day to highlight - it is the divs inside the day which contain
-movie details that are set
-to active.
